@@ -1,0 +1,5 @@
+# Игнорировать установленные npm пакеты
+node_modules
+*~
+.DS_Store(O S X )
+*.bak
